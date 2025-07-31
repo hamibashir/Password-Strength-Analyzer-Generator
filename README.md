@@ -19,9 +19,13 @@ Copy-to-clipboard functionality.
 Responsive UI with Tailwind CSS styling.
 
 ✅ Real-time strength scoring (0-100)
+
 ✅ Crack time estimation & entropy analysis
+
 ✅ Customizable password generator
+
 ✅ Detects common patterns & weak passwords
+
 ✅ No data leaves your browser
 
 Perfect for developers and security enthusiasts! Check out the code and try it yourself.
